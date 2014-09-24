@@ -1,2 +1,7 @@
 <Response> 
+  <Say>Please wait while you are connected to Courtney Watts></Say>
+  
+  <Dial>
+    <Number>408-705-7299</Number>
+  </Dial>
 </Response>
