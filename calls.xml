@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Dial callerId="+17142024941">
-        <Number>+14087057299</Number>
-    </Dial>
+  <Dial callerId="+17142024941">
+    <Number>+14087057299</Number>
+  </Dial>
 </Response>
